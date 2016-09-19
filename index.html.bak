@@ -24,13 +24,15 @@
   <body> <br>
     random stuff&nbsp; by vrtxt<br>
     using<br>
-    <a title="Processing" href="http://processing.org">Processing</a> | <a title="BlueGriffon"
-
+    <a title="Processing" href="http://processing.org">Processing</a> | <a title="BlueGriffon"
       href="http://bluegriffon.org/">BlueGriffon</a> | <a title="Bootstrap" href="http://getbootstrap.com/">Bootstrap</a>
     | <a title="GitHub Pages" href="https://pages.github.com/">GitHub Pages</a><br>
     <canvas data-processing-sources="GQ_GH_logo_v2_pde.pde"></canvas> <br>
     <br>
     <br>
-    <a>KubeRun</a>
+    <br>
+    <a href="https://goldenqubicle.github.io/KubeRun/">KubeRun</a> ;&nbsp; <a>
+      dodge procedurally generated cubes&nbsp;</a> |&nbsp; <a href="https://goldenqubicle.github.io/SC4Viewer/">SC4Viewer</a>
+    ; emulate controls of SimCity4
   </body>
 </html>
