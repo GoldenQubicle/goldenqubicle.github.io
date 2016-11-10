@@ -1,1 +1,0 @@
-# goldenqubicle.github.io
