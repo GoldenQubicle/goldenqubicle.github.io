@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://goldenqubicle.github.io//sitemap.xml

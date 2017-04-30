@@ -1,9 +1,14 @@
-<!doctype html>
-<html class="no-js" lang="en">
-<head>
-	<meta charset="utf-8">
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" >
+<xsl:output method="html" encoding="utf-8" />
+<xsl:template match="/rss">
+	<xsl:text disable-output-escaping="yes">&lt;!DOCTYPE html &gt;</xsl:text>
+	<html>
+	<head>
+		<xsl:text disable-output-escaping="yes"><![CDATA[
+		<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>GoldenQubicle</title>
+	<title>RSS Feed (Styled)</title>
 
     <link rel="stylesheet" type="text/css" href="https://goldenqubicle.github.io//assets/css/styles_feeling_responsive.css">
 
@@ -33,13 +38,13 @@
 	<link rel="author" href="https://plus.google.com/u/0/118311555303973066167">
 	
 	
-	<link rel="canonical" href="https://goldenqubicle.github.io//index.html">
+	<link rel="canonical" href="https://goldenqubicle.github.io//assets/xslt/rss.xslt">
 
 
 	<!-- Facebook Open Graph -->
-	<meta property="og:title" content="GoldenQubicle">
+	<meta property="og:title" content="RSS Feed (Styled)">
 	<meta property="og:description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.">
-	<meta property="og:url" content="https://goldenqubicle.github.io//index.html">
+	<meta property="og:url" content="https://goldenqubicle.github.io//assets/xslt/rss.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="GoldenQubicle">
@@ -52,7 +57,7 @@
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="phlow">
 	<meta name="twitter:creator" content="phlow">
-	<meta name="twitter:title" content="GoldenQubicle">
+	<meta name="twitter:title" content="RSS Feed (Styled)">
 	<meta name="twitter:description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.">
 	
 	
@@ -91,10 +96,11 @@
 
 	
 
-</head>
-<body id="top-of-page" class="frontpage">
-	
-	<div id="navigation" class="sticky">
+		]]></xsl:text>
+	</head>
+	<body id="top-of-page">
+		<xsl:text disable-output-escaping="yes"><![CDATA[
+		<div id="navigation" class="sticky">
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
@@ -184,7 +190,7 @@
 
             
             
-              <li class="active"><a  href="https://goldenqubicle.github.io//">Start</a></li>
+              <li><a  href="https://goldenqubicle.github.io//">Start</a></li>
               <li class="divider"></li>
 
             
@@ -408,15 +414,13 @@
   </nav>
 </div><!-- /#navigation -->
 
-	
+		
 
-	
-
-<div id="masthead">
+<div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
 			<a id="logo" href="https://goldenqubicle.github.io//" title="GoldenQubicle – ello">
-				<img src="https://goldenqubicle.github.io//assets/img/" alt="GoldenQubicle – ello">
+		<!-- 		<img src="https://goldenqubicle.github.io//assets/img/" alt="GoldenQubicle – ello"> -->
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -429,170 +433,57 @@
 
 
 
+		
 
 
-	<div id="header-home">
-    <div class="row">
-        <div class="small-12 columns">
-        </div><!-- /.medium-4.columns -->
-    </div><!-- /.row -->
-</div><!-- /#header-home -->
-
-
-
-<div class="row t60">
-	
-		<div class="medium-4 columns frontpage-widget">
-	
-	
-		<a href="http://phlow.github.io/feeling-responsive/blog/">
-			
-				
-				
-				
-				
-				<img src="http://127.0.0.1:4000/images/widget-1-302x182.jpg" alt="" />
-				
-			
-		</a>
-	
-	<h2 class="font-size-h3 t10">Blog & Portfolio</h2>
-	<p>Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.</p>
-	<p><a class="button tiny radius" href="http://phlow.github.io/feeling-responsive/blog/">More ›</a></p>
+<div class="alert-box warning text-center"><p>This <a href="https://en.wikipedia.org/wiki/RSS" target="_blank">RSS feed</a> is meant to be used by <a href="https://en.wikipedia.org/wiki/Template:Aggregators" target="_blank">RSS reader applications and websites</a>.</p>
 </div>
-	
-
-
-	
-		<div class="medium-4 columns frontpage-widget">
-	
-	
-		<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>
-	
-	<h2 class="font-size-h3 t10">Why use this theme?</h2>
-	<p><em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...</p>
-	<p><a class="button tiny radius" href="http://phlow.github.io/feeling-responsive/info/">More ›</a></p>
-</div>
-	
-
-
-	
-		<div class="medium-4 columns frontpage-widget">
-	
-	
-		<a href="https://github.com/Phlow/feeling-responsive">
-			
-				
-				
-				
-				
-				<img src="http://127.0.0.1:4000/images/widget-github-303x182.jpg" alt="" />
-				
-			
-		</a>
-	
-	<h2 class="font-size-h3 t10">Download Theme</h2>
-	<p><em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.</p>
-	<p><a class="button tiny radius" href="https://github.com/Phlow/feeling-responsive">More ›</a></p>
-</div>
-	
-</div><!-- /.row -->
 
 
 
-
-
-
-    <div class="row t60 b60">
-        <div class="small-12 text-center columns">
-            <a class="button large radius alert" href="https://tinyletter.com/feeling-responsive" target="_blank" >Inform me about new updates and features ›</a>
-        </div><!-- /.small-12.columns -->
-    </div><!-- /.row -->
-
-
-
-
-
-
-
-    <div class="row t30 b20 homepage">
-        <div class="small-12 columns">
-            
-            
-            <p>
-                <a href="https://goldenqubicle.github.io//design/mediaelement_js/" title="Play Audio &amp; Video with media&shy;element.js"><img width="970" src="http://127.0.0.1:4000/images/mediaplayer_js-home.jpg" alt=""></a>
-            </p>
-
-            
-            <p class="text-right caption">
-                <a href="https://blaz.photography/">Photo by Corey Blaz</a>
-            </p>
-            
-            
-            
-        </div><!-- /.small-12.columns -->
-    </div><!-- /.row -->
-
-
-    <div class="row">
-        <div class="medium-6 columns">
-            
-            <p class="subheadline">Video & Music Player</p>
-            <h2><a href="https://goldenqubicle.github.io//design/mediaelement_js/">Play Audio & Video with media&shy;element.js</a></h2>
-            <p>
-                Do you like music? Or are you a podcaster? Do you want to stream your videos in a nice player? Than you likely will like the integration of mediaelement.js. It enables you to play music and stream video in a consistent player that looks in each browser delicious. It even works in IE6-8.
-                <a href="https://goldenqubicle.github.io//design/mediaelement_js/" title="Read Play Audio &amp; Video with media&shy;element.js"><strong>Read More&nbsp;›</strong></a>
-            </p>
-            
-        </div><!-- /.medium-5.columns -->
-
-
-        <div class="medium-6 columns">
-            <p><strong>More Articles</strong></p>
-            
-
-
-
-
-
-<ul class="side-nav">
-
-  
-
-    
-      <li><a href="https://goldenqubicle.github.io//design/typography/typography/">Reading Experience &middot; <strong>Wonderful Typography</strong></a></li>
-    
-      <li><a href="https://goldenqubicle.github.io//design/comments/">Discussion &middot; <strong>Now with Comments!</strong></a></li>
-    
-      <li><a href="https://goldenqubicle.github.io//design/no-header/">Headers With Style &middot; <strong>No Header</strong></a></li>
-    
-      <li class="text-right"><a href="https://goldenqubicle.github.io//blog/archive/"><strong>More ›</strong></a></li>
-
-
-  
+		]]></xsl:text>
+		<header class="t30 row">
+	<p class="subheadline"><xsl:value-of select="channel/description" disable-output-escaping="yes" /></p>
+	<h1>
+		<xsl:element name="a">
+			<xsl:attribute name="href">
+				<xsl:value-of select="channel/link" />
+			</xsl:attribute>
+			<xsl:value-of select="channel/title" disable-output-escaping="yes" />
+		</xsl:element>
+	</h1>
+</header>
+<ul class="accordion row" data-accordion="">
+	<xsl:for-each select="channel/item">
+		<li class="accordion-navigation">
+			<xsl:variable name="slug-id">
+				<xsl:call-template name="slugify">
+					<xsl:with-param name="text" select="guid" />
+				</xsl:call-template>
+			</xsl:variable>
+			<xsl:element name="a">
+				<xsl:attribute name="href"><xsl:value-of select="concat('#', $slug-id)"/></xsl:attribute>
+				<xsl:value-of select="title"/>
+				<br/>
+				<small><xsl:value-of select="pubDate"/></small>
+			</xsl:element>
+			<xsl:element name="div">
+				<xsl:attribute name="id"><xsl:value-of select="$slug-id"/></xsl:attribute>
+				<xsl:attribute name="class">content</xsl:attribute>
+				<h1>
+					<xsl:element name="a">
+						<xsl:attribute name="href"><xsl:value-of select="link"/></xsl:attribute>
+						<xsl:value-of select="title"/>
+					</xsl:element>
+				</h1>
+				<xsl:value-of select="description" disable-output-escaping="yes" />
+			</xsl:element>
+		</li>
+	</xsl:for-each>
 </ul>
 
-
-        </div><!-- /.medium-7.columns -->
-    </div><!-- /.row -->
-
-
-
-
-
-<div class="row">
-    <div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen=""></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
-
-</div><!-- /.row -->
-
-
-	
-	    <div id="up-to-top" class="row">
+		<xsl:text disable-output-escaping="yes"><![CDATA[
+		    <div id="up-to-top" class="row">
       <div class="small-12 columns" style="text-align: right;">
         <a class="iconfont" href="#top-of-page">&#xf108;</a>
       </div><!-- /.small-12.columns -->
@@ -732,19 +623,12 @@
       </div><!-- /#subfooter -->
     </footer>
 
-	
-
-	
+		
 
 
 <script src="https://goldenqubicle.github.io//assets/js/javascript.min.js"></script>
 
 
-
-<script>
-    $("#masthead").backstretch("http://127.0.0.1:4000/images/header_unsplash_12.jpg", {fade: 700});
-    $("#masthead-with-text").backstretch("http://127.0.0.1:4000/images/header_unsplash_12.jpg", {fade: 700});
-</script>
 
 
 
@@ -769,6 +653,18 @@
 
 
 
-</body>
-</html>
-
+		]]></xsl:text>
+	</body>
+	</html>
+</xsl:template>
+<xsl:template name="slugify">
+	<xsl:param name="text" select="''" />
+	<xsl:variable name="dodgyChars" select="' ,.#_-!?*:;=+|&amp;/\\'" />
+	<xsl:variable name="replacementChar" select="'-----------------'" />
+	<xsl:variable name="lowercase" select="'abcdefghijklmnopqrstuvwxyz'" />
+	<xsl:variable name="uppercase" select="'ABCDEFGHIJKLMNOPQRSTUVWXYZ'" />
+	<xsl:variable name="lowercased"><xsl:value-of select="translate( $text, $uppercase, $lowercase )" /></xsl:variable>
+	<xsl:variable name="escaped"><xsl:value-of select="translate( $lowercased, $dodgyChars, $replacementChar )" /></xsl:variable>
+	<xsl:value-of select="$escaped" />
+</xsl:template>
+</xsl:stylesheet>
