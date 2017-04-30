@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://goldenqubicle.github.io//sitemap.xml
+Sitemap: https://goldenqubicle.github.io/sitemap.xml
