@@ -31,7 +31,7 @@
 
 
 	<!-- Search Engine Optimization -->
-	<meta name="description" content="showcasing various creative endevours, an online portfolio if you would">
+	<meta name="description" content="various creative endevours by vrtxt">
 	<meta name="google-site-verification" content="Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ">
 	<meta name="msvalidate.01" content="0FB4C028ABCF07C908C54386ABD2D97F" >
 	
@@ -43,7 +43,7 @@
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="RSS Feed (Styled)">
-	<meta property="og:description" content="showcasing various creative endevours, an online portfolio if you would">
+	<meta property="og:description" content="various creative endevours by vrtxt">
 	<meta property="og:url" content="http://localhost:4000/assets/xslt/rss.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
@@ -58,7 +58,7 @@
 	<meta name="twitter:site" content="GoldenQubicle">
 	<meta name="twitter:creator" content="GoldenQubicle">
 	<meta name="twitter:title" content="RSS Feed (Styled)">
-	<meta name="twitter:description" content="showcasing various creative endevours, an online portfolio if you would">
+	<meta name="twitter:description" content="various creative endevours by vrtxt">
 	
 	
 
@@ -150,8 +150,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="http://localhost:4000/" title="GoldenQubicle – ello">
-		<!-- 		<img src="http://localhost:4000/assets/img/" alt="GoldenQubicle – ello"> -->
+			<a id="logo" href="http://localhost:4000/" title="GoldenQubicle – gqhq">
+		<!-- 		<img src="http://localhost:4000/assets/img/" alt="GoldenQubicle – gqhq"> -->
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -228,8 +228,8 @@
             <h5 class="shadow-black">About This Site</h5>
 
             <p class="shadow-black">
-              showcasing various creative endevours, an online portfolio if you would
-              <a href="http://localhost:4000/info/">More ›</a>
+              various creative endevours by vrtxt
+             <!--  <a href="http://localhost:4000/info/">More ›</a> -->
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -264,9 +264,9 @@
           <section id="subfooter-right" class="small-12 medium-6 columns">
             <ul class="inline-list social-icons">
             
-              <li><a href="https://github.com/GoldenQubicle" target="_blank" class="icon-github" title="spaghetti!"></a></li>
+              <li><a href="https://github.com/GoldenQubicle" target="_blank" class="icon-github" title="spaghetti"></a></li>
             
-              <li><a href="https://twitter.com/GoldenQubicle" target="_blank" class="icon-twitter" title="new gifs throughout the week!"></a></li>
+              <li><a href="https://twitter.com/GoldenQubicle" target="_blank" class="icon-twitter" title="new gifs throughout the week"></a></li>
             
             </ul>
           </section>
