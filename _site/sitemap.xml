@@ -5,26 +5,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/404.html</loc>
+	<loc>https://goldenqubicle.github.io/404.html</loc>
 	
-		<lastmod>2017-05-01T22:35:42+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/atom.xml</loc>
-	
-		<lastmod>2017-05-01T22:35:42+02:00</lastmod>
+		<lastmod>2017-05-08T19:48:24+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -39,54 +22,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/feed.xml</loc>
+	<loc>https://goldenqubicle.github.io/atom.xml</loc>
 	
-		<lastmod>2017-05-01T22:35:42+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/humans.txt</loc>
-	
-		<lastmod>2017-05-01T22:35:42+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/</loc>
-	
-		<lastmod>2017-05-01T22:35:42+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/robots.txt</loc>
-	
-		<lastmod>2017-05-01T22:35:42+02:00</lastmod>
+		<lastmod>2017-05-08T19:48:24+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -100,12 +38,74 @@
 	
 
 	
+	<url>
+	<loc>https://goldenqubicle.github.io/feed.xml</loc>
+	
+		<lastmod>2017-05-08T19:48:24+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
 
 	
 	<url>
-	<loc>http://localhost:4000/sitemap.xml</loc>
+	<loc>https://goldenqubicle.github.io/humans.txt</loc>
 	
-		<lastmod>2017-05-01T22:35:42+02:00</lastmod>
+		<lastmod>2017-05-08T19:48:24+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://goldenqubicle.github.io/</loc>
+	
+		<lastmod>2017-05-08T19:48:24+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://goldenqubicle.github.io/robots.txt</loc>
+	
+		<lastmod>2017-05-08T19:48:24+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>https://goldenqubicle.github.io/sitemap.xml</loc>
+	
+		<lastmod>2017-05-08T19:48:24+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>

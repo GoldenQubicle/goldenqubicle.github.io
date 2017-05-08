@@ -10,11 +10,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>RSS Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="http://localhost:4000/assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="https://goldenqubicle.github.io/assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="http://localhost:4000/assets/js/modernizr.min.js"></script>
+	<script src="https://goldenqubicle.github.io/assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -38,13 +38,13 @@
 	<link rel="author" href="https://plus.google.com/u/0/118311555303973066167">
 	
 	
-	<link rel="canonical" href="http://localhost:4000/assets/xslt/rss.xslt">
+	<link rel="canonical" href="https://goldenqubicle.github.io/assets/xslt/rss.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="RSS Feed (Styled)">
 	<meta property="og:description" content="various creative endevours by vrtxt">
-	<meta property="og:url" content="http://localhost:4000/assets/xslt/rss.xslt">
+	<meta property="og:url" content="https://goldenqubicle.github.io/assets/xslt/rss.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="GoldenQubicle">
@@ -62,34 +62,34 @@
 	
 	
 
-	<link type="text/plain" rel="author" href="http://localhost:4000/humans.txt">
+	<link type="text/plain" rel="author" href="https://goldenqubicle.github.io/humans.txt">
 
 	
 
 	
 
-	<link rel="icon" sizes="32x32" href="http://localhost:4000/assets/img/favicon-32x32.png">
+	<link rel="icon" sizes="32x32" href="https://goldenqubicle.github.io/assets/img/favicon-32x32.png">
 
-	<link rel="icon" sizes="192x192" href="http://localhost:4000/assets/img/touch-icon-192x192.png">
+	<link rel="icon" sizes="192x192" href="https://goldenqubicle.github.io/assets/img/touch-icon-192x192.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/assets/img/apple-touch-icon-180x180-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://goldenqubicle.github.io/assets/img/apple-touch-icon-180x180-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/assets/img/apple-touch-icon-152x152-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://goldenqubicle.github.io/assets/img/apple-touch-icon-152x152-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/assets/img/apple-touch-icon-144x144-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://goldenqubicle.github.io/assets/img/apple-touch-icon-144x144-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/assets/img/apple-touch-icon-120x120-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://goldenqubicle.github.io/assets/img/apple-touch-icon-120x120-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/assets/img/apple-touch-icon-114x114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://goldenqubicle.github.io/assets/img/apple-touch-icon-114x114-precomposed.png">
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/assets/img/apple-touch-icon-76x76-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://goldenqubicle.github.io/assets/img/apple-touch-icon-76x76-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/assets/img/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://goldenqubicle.github.io/assets/img/apple-touch-icon-72x72-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/assets/img/apple-touch-icon-precomposed.png">	
+	<link rel="apple-touch-icon-precomposed" href="https://goldenqubicle.github.io/assets/img/apple-touch-icon-precomposed.png">	
 
-	<meta name="msapplication-TileImage" content="http://localhost:4000/assets/img/msapplication_tileimage.png">
+	<meta name="msapplication-TileImage" content="https://goldenqubicle.github.io/assets/img/msapplication_tileimage.png">
 
 	<meta name="msapplication-TileColor" content="#fabb00">
 
@@ -104,7 +104,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="http://localhost:4000" class="icon-tree"> GoldenQubicle</a></h1>
+      <h1 class="show-for-small-only"><a href="https://goldenqubicle.github.io" class="icon-tree"> GoldenQubicle</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
@@ -132,7 +132,7 @@
 
             
             
-              <li><a  href="http://localhost:4000/">GQ</a></li>
+              <li><a  href="https://goldenqubicle.github.io/">GQ</a></li>
               <li class="divider"></li>
 
             
@@ -150,8 +150,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="http://localhost:4000/" title="GoldenQubicle – gqhq">
-		<!-- 		<img src="http://localhost:4000/assets/img/" alt="GoldenQubicle – gqhq"> -->
+			<a id="logo" href="https://goldenqubicle.github.io/" title="GoldenQubicle – gqhq">
+		<!-- 		<img src="https://goldenqubicle.github.io/assets/img/" alt="GoldenQubicle – gqhq"> -->
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -229,7 +229,7 @@
 
             <p class="shadow-black">
               various creative endevours by vrtxt
-             <!--  <a href="http://localhost:4000/info/">More ›</a> -->
+             <!--  <a href="https://goldenqubicle.github.io/info/">More ›</a> -->
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -258,7 +258,7 @@
       <div id="subfooter">
         <nav class="row">
           <section id="subfooter-left" class="small-12 medium-6 columns credits">
-            <p>Theme based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> by <a href="http://phlow.de/">Phlow</a>.</p><br><p>Made with <a href = "https://pages.github.com/">GitPages</a> and <a href="http://jekyllrb.com/">Jelyll</a></p>
+            <p>Theme based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> by <a href="http://phlow.de/">Phlow</a>.</p><br><p>Made with <a href = "https://pages.github.com/">GitPages</a> and <a href="http://jekyllrb.com/">Jekyll</a></p>
           </section>
 
           <section id="subfooter-right" class="small-12 medium-6 columns">
@@ -277,7 +277,7 @@
 		
 
 
-<script src="http://localhost:4000/assets/js/javascript.min.js"></script>
+<script src="https://goldenqubicle.github.io/assets/js/javascript.min.js"></script>
 
 
 
