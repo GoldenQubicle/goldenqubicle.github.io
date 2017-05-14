@@ -5,16 +5,16 @@
 _config_dev.yml
 _config.yml
 
-._data/
-._drafts/
-._includes/
-._layouts/
-._plugins/
-._sass/
-.assets/
-.gif/
-.images/
-.pages/
+_data/
+_drafts/
+_includes/
+_layouts/
+_plugins/
+_sass/
+assets/
+gif/
+images/
+pages/
 
 
 Gemfile
