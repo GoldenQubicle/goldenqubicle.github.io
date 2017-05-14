@@ -131,7 +131,7 @@ Liquid::Template.register_tag('gif', Jekyll::GifTag)
 
 ## JS (jQuery)
 # var gif = [];
-
+#
 # $('figure.animated_gif_frame img').each(function(i, n) {
 #     var data = $(n).attr('src').replace(/\.(png|jpg)$/,'.gif');
 #     gif.push(data);
@@ -159,7 +159,7 @@ Liquid::Template.register_tag('gif', Jekyll::GifTag)
 # });
 # }
 
-# # CSS
+## CSS
 # figure.animated_gif_frame {
 #     position: relative;
 #     cursor: pointer;
