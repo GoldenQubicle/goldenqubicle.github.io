@@ -12,5 +12,4 @@ permalink: /index.html
 
 homepage: true
 ---
-
-{% gif %}
+{% gif gif/loop205.gif %}
