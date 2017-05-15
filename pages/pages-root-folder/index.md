@@ -12,8 +12,6 @@ permalink: /index.html
 
 homepage: true
 ---
-
-<<<<<<< HEAD
 {% gif /gif/loop224.gif %}
 =======
->>>>>>> origin/master
+
