@@ -3,7 +3,7 @@ figure.animated_gif_frame {
     cursor: pointer;
     text-align: center;
     @mixin opacity($amount) {
-         opacity : 0.85;
+         opacity : amount;
      };
     transition: opacity, 2s, ease-in-out;
     
@@ -57,7 +57,7 @@ figure.animated_gif_frame {
 
     &.playing {
         img {
-            @include opacity(1);
+            @include opacity(0);
         }
 
         figcaption {

@@ -9,14 +9,13 @@
 		<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>RSS Feed (Styled)</title>
-
     <link rel="stylesheet" type="text/css" href="http://localhost:4000/assets/css/styles_feeling_responsive.css">
-
+	
   
 
 	<script src="http://localhost:4000/assets/js/modernizr.min.js"></script>
-	<script src="http://localhost:4000/assets/js/jquery-3.2.1.min.js"></script>
-	<script src="http://localhost:4000/assets/js/gif.js"></script>
+	<script src="http://localhost:4000/assets/js/jquery.min.js"></script>
+	<script src="http://localhost:4000/assets/js/gif_player.js"></script>
 	
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
